@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VF7oHfLdCiaS2rBuC6pz5FC7SoCfxB4kuokyZ28tePw=",
+  "Source": "DotCommerce.Service",
+  "BasePath": "_content/DotCommerce.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

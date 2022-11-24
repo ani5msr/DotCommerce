@@ -1,0 +1,15 @@
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\bin\Debug\net7.0\DotCommerce.Dal.deps.json
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\bin\Debug\net7.0\DotCommerce.Dal.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\bin\Debug\net7.0\DotCommerce.Dal.pdb
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\bin\Debug\net7.0\DotCommerce.Models.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\bin\Debug\net7.0\DotCommerce.Models.pdb
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.csproj.AssemblyReference.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.AssemblyInfoInputs.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.AssemblyInfo.cs
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.csproj.CoreCompileInputs.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.csproj.CopyComplete
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\refint\DotCommerce.Dal.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\DotCommerce.Dal.pdb
+C:\Users\aniru\git\DotCommerce\DotCommerce.Dal\obj\Debug\net7.0\ref\DotCommerce.Dal.dll

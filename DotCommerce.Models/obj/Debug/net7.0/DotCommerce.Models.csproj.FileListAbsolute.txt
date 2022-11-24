@@ -1,0 +1,12 @@
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\bin\Debug\net7.0\DotCommerce.Models.deps.json
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\bin\Debug\net7.0\DotCommerce.Models.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\bin\Debug\net7.0\DotCommerce.Models.pdb
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.csproj.AssemblyReference.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.AssemblyInfoInputs.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.AssemblyInfo.cs
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\refint\DotCommerce.Models.dll
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\DotCommerce.Models.pdb
+C:\Users\aniru\git\DotCommerce\DotCommerce.Models\obj\Debug\net7.0\ref\DotCommerce.Models.dll

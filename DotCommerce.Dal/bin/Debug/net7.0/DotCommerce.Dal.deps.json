@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DotCommerce.Dal/1.0.0": {
+        "dependencies": {
+          "DotCommerce.Models": "1.0.0"
+        },
+        "runtime": {
+          "DotCommerce.Dal.dll": {}
+        }
+      },
+      "DotCommerce.Models/1.0.0": {
+        "runtime": {
+          "DotCommerce.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotCommerce.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotCommerce.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
